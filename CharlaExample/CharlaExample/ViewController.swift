@@ -23,9 +23,9 @@ class ViewController: UIViewController {
     let number11 = 11
     
 
-    let test = "string test"
-    let test2 = "string test"
-    let test3 = "string test"
+    let test = "1"
+    let test2 = "2"
+    let test3 = "3"
     let test4 = "string test"
     let tes5 = "string test"
     let test6 = "string test"
